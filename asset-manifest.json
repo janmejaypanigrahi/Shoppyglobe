@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Shoppyglobe/static/css/main.e45a8514.css",
+    "main.js": "/Shoppyglobe/static/js/main.be6cc2bc.js",
+    "index.html": "/Shoppyglobe/index.html",
+    "main.e45a8514.css.map": "/Shoppyglobe/static/css/main.e45a8514.css.map",
+    "main.be6cc2bc.js.map": "/Shoppyglobe/static/js/main.be6cc2bc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e45a8514.css",
+    "static/js/main.be6cc2bc.js"
+  ]
+}
